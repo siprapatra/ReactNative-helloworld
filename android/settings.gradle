@@ -1,0 +1,3 @@
+rootProject.name = 'siprareactApp1'
+
+include ':app'
